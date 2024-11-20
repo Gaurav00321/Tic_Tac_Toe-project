@@ -19,4 +19,4 @@ A console-based Tic Tac Toe game developed in C++ that showcases essential progr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Gaurav00321/tic-tac-toe.git
