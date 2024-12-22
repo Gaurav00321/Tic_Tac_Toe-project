@@ -20,3 +20,17 @@ A console-based Tic Tac Toe game developed in C++ that showcases essential progr
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gaurav00321/tic-tac-toe.git
+   
+2. Compile the program:
+   ```bash
+   g++ -o tic_tac_toe main.cpp
+   
+3. Run the game:
+   ```bash
+   ./tic_tac_toe
+   
+## License
+This project is licensed under the [MIT License](LICENSE). 
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
